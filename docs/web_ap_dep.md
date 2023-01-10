@@ -10,7 +10,7 @@ tags:
 
 ## Introduction
 Basic deploy schema:
-![[img/web_app_deploy.webp]]
+![img/web_app_deploy.webp](img/web_app_deploy.webp)
 
 ## Sources:
 
